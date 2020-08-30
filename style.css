@@ -370,7 +370,6 @@ width: 100%;
 }
 #contact-form{
 	width:100%;
-	box-sizing: border-box;
 	font-family: calibri;
 	display: flex;
 	flex-direction: column;
@@ -420,5 +419,3 @@ textarea {
   margin-top:-4px;
   font-weight:700;
 }
-wt1.css
-Displaying wt1.css.

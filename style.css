@@ -51,7 +51,7 @@ nav{
 }
 
 .logo{
-	font-size: 25px;
+	font-size: 10px;
 	font-weight: bold;
 	color:#292929;
 	font-family:Poppins;
@@ -116,7 +116,7 @@ nav{
 }
 .about-text p{
 	font-size: 1.2rem;
-	color:rgba(255,255,255,0.90);
+	color:#FFFFFF;
 	
 }
 .about-text button{

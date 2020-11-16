@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "userdetails.xsl"?>
+<details>
+  <user uid="1">
+    <name>Thatchayini</name>
+    <reg> 18IT107 </reg>
+    <year>3</year>
+	<dep>IT</dep>
+  </user>
+  <user uid="2">
+    <name>Sarumathi</name>
+    <reg> 18IT082 </reg>
+    <year>2</year>
+	<dep>IT</dep>
+  </user>
+  <user uid="3">
+    <name>Maran</name>
+    <reg> 18CS100 </reg>
+    <year>1</year>
+	<dep>CS</dep>
+  </user>
+  <user uid="4">
+    <name>Akalya</name>
+    <reg> 18IT007 </reg>
+    <year>3</year>
+	<dep>IT</dep>
+  </user>
+  <user uid="5">
+    <name>Nivetha</name>
+    <reg> 18C047 </reg>
+    <year>4</year>
+	<dep>EEE</dep>
+  </user>
+  <user uid="6">
+    <name>Arjun</name>
+    <reg> 18CS034 </reg>
+    <year>1</year>
+	<dep>CS</dep>
+  </user>
+  <user uid="7">
+    <name>Priya</name>
+    <reg> 18E057</reg>
+    <year>2</year>
+	<dep>ECE</dep>
+  </user>
+  <user uid="8">
+    <name>Dharshini</name>
+    <reg> 18C012</reg>
+    <year>2</year>
+	<dep>CIVIL</dep>
+  </user>
+  <user uid="9">
+    <name>Suganthi</name>
+    <reg>18EC105</reg>
+    <year>2</year>
+	<dep>MECH</dep>
+  </user>
+  
+</details>

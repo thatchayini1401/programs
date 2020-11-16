@@ -1,0 +1,47 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "conditions.xsl"?>
+<conditions>
+  <book reg="18IT107" name="Thatchayini">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	<pending>1 book to renewal</pending>
+	 </book>
+	 <book reg="18IT082" name="Sarumathi">
+    <renewal> Yes "2 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "20 rupees"</payfine>
+	<pending>3 book to renewal</pending>
+	 </book>
+	 <book reg="18CS100" name="Maran">
+    <renewal> No "0 book"</renewal>
+	<return> Yes "1 book"</return>
+	<payfine>Yes "15 rupees"</payfine>
+	<pending>1 book to return</pending>
+	 </book>
+	 <book reg="18IT007" name="Akalya">
+    <renewal> Yes "4 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "250 rupees"</payfine>
+	<pending>250 to pay</pending>
+	 </book>
+	 <book reg="18C047" name="Nivetha">
+    <renewal> No "0 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>No "0 rupees"</payfine>
+	<pending>No pending</pending>
+	 </book>
+	 <book reg="18Cs034" name="Arjun">
+    <renewal> Yes "2 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>No "0 rupees"</payfine>
+	<pending>3 book to renewal</pending>
+	 </book>
+	 <book reg="18E057" name="Priya">
+    <renewal> No "0 book"</renewal>
+	<return> Yes "2 book"</return>
+	<payfine>Yes "30 rupees"</payfine>
+	<pending>1 book to return</pending>
+	 </book>
+  
+</conditions>

@@ -1,0 +1,27 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT conditions (bookname)+>
+<!ATTLIST conditions
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT city (renewal,return,payfine)>
+<!ATTLIST bookname
+  xmlns CDATA #FIXED ''
+  name NMTOKEN #REQUIRED
+  regno CDATA #REQUIRED>
+
+<!ELEMENT renewal (#PCDATA)>
+<!ATTLIST renewal
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT return (#PCDATA)>
+<!ATTLIST return
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT payfine (#PCDATA)>
+<!ATTLIST payfine
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT pending (#PCDATA)>
+<!ATTLIST pending
+  xmlns CDATA #FIXED ''>

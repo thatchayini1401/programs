@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "conditions.xsl"?>
+<conditions>
+<book reg="18IT107" name="Thatchayini">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	 </book>
+	 <book reg="18IT082" name="Sarumathi">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	 </book>
+	 <book reg="18CS100" name="Maran">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	 </book>
+	 <book reg="18IT007" name="Akalya">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	 </book>
+	 <book reg="18C047" name="Nivetha">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	 </book>
+	 <book reg="18Cs034" name="Arjun">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	 </book>
+	 <book reg="18E057" name="Priya">
+    <renewal> Yes "1 book"</renewal>
+	<return> No "0 book"</return>
+	<payfine>Yes "150 rupees"</payfine>
+	 </book>
+</conditions>

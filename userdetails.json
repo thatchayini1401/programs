@@ -1,0 +1,72 @@
+{
+    "details": {
+        "user": [
+            {
+                "name":"Thatchayini",
+				"reg":"18IT107",
+				"year":"3",
+				"dep":"IT"
+				"_uid":"1"
+            },
+            {
+                 "name":"Sarumathi",
+				"reg":"18IT082",
+				"year":"2",
+				"dep":"IT"
+				"_uid":"2"
+            },
+            {
+                 "name":"Maran",
+				"reg":"18CS100",
+				"year":"1",
+				"dep":"CS"
+				"_uid":"3"
+            },
+            {
+                "name":"Akalya",
+				"reg":"18IT007",
+				"year":"3",
+				"dep":"IT"
+				"_uid":"4"
+            },
+            {
+                 "name":"Nivetha",
+				"reg":"18C047",
+				"year":"4",
+				"dep":"EEE"
+				"_uid":"5"
+            },
+            {
+                 "name":"Arjun",
+				"reg":"18CS034",
+				"year":"1",
+				"dep":"CS"
+				"_uid":"6"
+            },
+			{
+                 "name":"Priya",
+				"reg":"18E057",
+				"year":"2",
+				"dep":"ECE"
+				"_uid":"7"
+            },
+			{
+                 "name":"Dharshini",
+				"reg":"18C012",
+				"year":"2",
+				"dep":"CIVIL"
+				"_uid":"8"
+            },
+			{
+                 "name":"Suganthi",
+				"reg":"18EC105",
+				"year":"2",
+				"dep":"MECH"
+				"_uid":"9"
+            }
+			
+			
+			
+        ]
+    }
+}

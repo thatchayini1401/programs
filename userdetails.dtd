@@ -1,0 +1,26 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT details (user)+>
+<!ATTLIST details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT user (name,reg,year,dep)>
+<!ATTLIST user
+  xmlns CDATA #FIXED ''
+  uid CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT reg (#PCDATA)>
+<!ATTLIST reg
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT year (#PCDATA)>
+<!ATTLIST year
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT dep (#PCDATA)>
+<!ATTLIST dep
+  xmlns CDATA #FIXED ''>

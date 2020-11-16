@@ -1,0 +1,63 @@
+{
+    "conditions": {
+        "book": [
+            {
+				"renewal":"Yes\"1 book\"",
+				"return":"No\"0 book\"",
+                "payfine":"Yes\"150 rupees\"",
+				"pending":1 book to renewal,
+                "_reg": "18IT107",
+                "_name": "Thatchayini"
+            },
+            {
+                "renewal":"Yes\"2 book\"",
+				"return":"No\"0 book\"",
+                "payfine":"Yes\"200 rupees\"",
+				"pending":3 book to renewal,
+                "_reg": "18IT082",
+                "_name": "Sarumathi"
+            },
+            {
+                "renewal":"No\"0 book\"",
+				"return":"Yes\"1 book\"",
+                "payfine":"Yes\"15 rupees\"",
+				"pending":1 book to return,
+                "_reg": "18CS100",
+                "_name": "Maran"
+            },
+            {
+                "renewal":"Yes\"4 book\"",
+				"return":"No\"0 book\"",
+                "payfine":"Yes\"250 rupees\"",
+				"pending":250 to pay,
+                "_reg": "18IT007",
+                "_name": "Akalya"
+            },
+            {
+               "renewal":"No\"0 book\"",
+				"return":"No\"0 book\"",
+                "payfine":"No\"0 rupees\"",
+				"pending":No pending,
+                "_reg": "18C047",
+                "_name": "Nivetha"
+            },
+            {
+               "renewal":"Yes\"2 book\"",
+				"return":"No\"0 book\"",
+                "payfine":"No\"0 rupees\"",
+				"pending":3 book to renewal,
+                "_reg": "18CS034",
+                "_name": "Arjun"
+            },
+            {
+                "renewal":"No\"0 book\"",
+				"return":"Yes\"2 book\"",
+                "payfine":"Yes\"30 rupees\"",
+				"pending":1 book to return,
+                "_reg": "18E057",
+                "_name": "Priya"
+            },
+			
+        ]
+    }
+}
